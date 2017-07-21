@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Cabin', sans-serif;
+}
+
+.mealDetails {
+  display: none;
+}
+
+.showDetails {
+  display: block;
+}
+
+
+.container {
+  background: rgba(0, 0, 0, 0.5);
+  @media screen and(min-width: 768px) {
+    background: none;
+  }
+}
+
+
+body {
+  background-color: #000;
+  background: url('../../resources/img/steak.tif') no-repeat center center fixed;
+  background-size: cover;
+
+}
