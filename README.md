@@ -17,6 +17,6 @@ Angular 2, JavaScript, TypeScript, Gulp, Bower, HTML, SASS/SCSS,
 * View in browser.
 
 ## License
-Copyright (c) 2016 Kevin Siundu
+Copyright (c) 2017 Kevin Siundu
 
 This software is licensed under the MIT license.
